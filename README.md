@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- GitHub Profile README for Nimrod Omanga O. -->
 
@@ -63,7 +63,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)  
 [![Twitter](https://img.shields.io/badge/-Twitter-black?logo=twitter&style=for-the-badge)](https://twitter.com/your-handle)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge)](mailto:nimrodogoro@gmail.com)
 
 ---
 
