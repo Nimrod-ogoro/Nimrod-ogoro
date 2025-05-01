@@ -19,10 +19,10 @@
 
 ### 💼 Featured Projects
 
-- 🧠 [AI Chatbot with PDF Knowledge Base](https://github.com/nimrodomangao/pdf-chatbot-ai)  
+- 🧠 [AI Chatbot with PDF Knowledge Base]([https://github.com/nimrodomangao/pdf-chatbot-ai](https://portfolio-rouge-zeta-36.vercel.app/))  
   Built with React, Firebase, Langchain, FAISS, and Streamlit. Upload PDFs and ask questions like ChatPDF.
 
-- 🌐 [Personal Portfolio Website](https://github.com/nimrodomangao/portfolio)  
+- 🌐 [Personal Portfolio Website]([https://github.com/nimrodomangao/portfolio](https://portfolio-rouge-zeta-36.vercel.app/))  
   A sleek React + Vite portfolio with Tailwind CSS to showcase projects and skills.
 
 ---
@@ -53,8 +53,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimrodomangao&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimrodomangao&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimrod-ogoro&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimrod-ogoro&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
